@@ -1,3 +1,19 @@
+*{
+    background-color: lavenderblush;
+}
+
+
 h1 {
-    color:red;
+    color:dodgerblue;
+    font-size: 50px;
+}
+
+p{
+    color: peru;
+    font-size: 30px;
+
+}
+ol{
+    font-size: 30px;
+    color: rgb(12, 189, 130);
 }
